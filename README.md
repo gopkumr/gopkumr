@@ -1,6 +1,7 @@
-# 👨🏻‍💻 [Gopakumar Ravikumar](https://www.beneathabstraction.com/) [@gopkumr](https://www.beneathabstraction.com/)
+# 👨🏻‍💻 [Gopakumar](https://www.beneathabstraction.com/)
 
-:wave: Hello World! I've alway been facinated with computers right from my childhood, when I first saw a computer back in 1990, which was a Intel 80286 powered large box. Over the years seeing the computers evolve the facination grew in a real interest and I got enrolled in a harware and nerworking cource. Did some PC builds and sold few, helped in earning pocket money during college. And got in to programming using C/C++ for college projects, then final year with Java and finally started professional application developement with Microsoft tech stack when I landed my first job in 2007.  
+:wave: Hello World!   
+I've alway been facinated with computers right from my childhood, when I first saw a computer back in 1990, which was a Intel 80286 powered large box. Over the years seeing the computers evolve the facination grew in a real interest and I got enrolled in a harware and nerworking cource. Did some PC builds and sold few, helped in earning pocket money during college. And got in to programming using C/C++ for college projects, then final year with Java and finally started professional application developement with Microsoft tech stack when I landed my first job in 2007.  
 I spend my time outside my work trying to keep up with advancing technology/tools/framework both in the microsoft tech stack as well as other open source projects. Apart from programming I spent time in trying out cloud services mostly on Azure, learning cloud native application development, bit of rapberripi/arduino projects, some wood work building small furnitures, photography, cycling.
 
 ## 💻 Tech and Tools
