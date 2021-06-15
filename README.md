@@ -11,4 +11,5 @@ I spend my time outside my work trying to keep up with advancing technology/tool
 <!-- END OF TECH STACK -->
 
 ## 📄 Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopkumr&layout=compact)](https://github.com/gopkumr)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopkumr)](https://github.com/gopkumr)
+
